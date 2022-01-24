@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	//"$color2" [1 1 1]
+	//"$blendtintcoloroverbase" "1"
+	//"$blendtintbybasealpha" "1"
+	
+	"$baseTexture"			"zerochain/mgangs2/mgang_automata_neon"
+	"$surfaceprop" "Glass"
+	
+	"$model" 1	
+	"$additive" 1
+	"$selfillum" 1
+}

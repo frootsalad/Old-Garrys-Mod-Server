@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"				"Radio + Microphone Mod"
+	"version"			"1.5.2"
+	"author_name"			"Fish"
+	"info"				"A voice, Internet radio, and YouTube music player for DarkRP."
+	"override"			"0"
+}

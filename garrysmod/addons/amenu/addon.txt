@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"		"aMenu"
+	"info"		""
+	"version"	"1.6.1"
+	"up_date"	"2016.07.20"
+	"author_name"	"arie"
+}

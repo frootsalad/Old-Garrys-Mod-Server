@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/zmlab/zmlab_frezzertray/meth_try_diff"
+	//"$color2" "[0 0 1]"
+	"$translucent" 1
+	"$additive" 0
+	
+	"$bumpmap" "zerochain/zmlab/zmlab_frezzertray/meth_try_nrm"
+	//"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "glass"
+	"$model" 1
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.38824  0.87843  1.00000]"
+	"$envmapcontrast" "0"
+	"$envmapfresnel" "3"
+	"$envmapfresnelminmaxexp" "[1 2 3]"
+	"$fresnelreflection" 25
+
+}

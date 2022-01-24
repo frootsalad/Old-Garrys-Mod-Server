@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_arcade/coinpusher/zap_coinpusher_glass_diff_lod02"
+
+	"$translucent"			1
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+
+}

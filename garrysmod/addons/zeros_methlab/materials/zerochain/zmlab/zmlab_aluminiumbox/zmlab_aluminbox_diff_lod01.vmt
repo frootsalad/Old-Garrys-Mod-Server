@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/zmlab/zmlab_aluminiumbox/zmlab_aluminbox_diff"
+
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+
+	"$bumpMap"				"zerochain/zmlab/zmlab_aluminiumbox/zmlab_aluminbox_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+	$phong 1
+
+        $phongexponent 25
+		$phongalbedotint 1
+        $phongboost 1
+        $phongtint "[1 1 1]"
+        $phongfresnelranges "[1 2 3]"
+
+}

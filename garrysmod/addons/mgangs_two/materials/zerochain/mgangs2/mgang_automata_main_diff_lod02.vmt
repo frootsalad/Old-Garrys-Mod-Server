@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/mgangs2/mgang_automata_main_diff_lod02"
+
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+}

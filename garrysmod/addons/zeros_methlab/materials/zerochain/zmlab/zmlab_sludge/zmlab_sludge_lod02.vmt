@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/zmlab/zmlab_sludge/zmlab_sludge"
+	"$color2" "[0.1 0.7 1]"
+
+	"$surfaceprop" "slime"
+	"$model" 1
+
+}

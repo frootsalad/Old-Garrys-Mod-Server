@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zerochain/particles/zmlab/zmlab_money_particle"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$translucent" "1"
+
+	"$no_fullbright" 1
+
+	$nocull 1
+
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture"			"zerochain/zmlab/zmlab_transportcrate/meth_crystalls_diff_lod02"
+	
+
+	"$surfaceprop" "glass"
+	"$model" 1
+
+
+}

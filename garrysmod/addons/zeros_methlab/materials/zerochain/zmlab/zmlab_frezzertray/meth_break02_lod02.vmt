@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/zmlab/zmlab_frezzertray/meth_try_diff"
+	//"$color2" [0.38824  0.87843  1.00000]"
+	
+	"$surfaceprop" "glass"
+	"$model" 1
+}

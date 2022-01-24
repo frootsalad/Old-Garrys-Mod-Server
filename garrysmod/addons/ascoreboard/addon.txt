@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"		"aScoreboard"
+	"info"		""
+	"version"	"1.0.0"
+	"up_date"	"2016.12.02"
+	"author_name"	"arie"
+}

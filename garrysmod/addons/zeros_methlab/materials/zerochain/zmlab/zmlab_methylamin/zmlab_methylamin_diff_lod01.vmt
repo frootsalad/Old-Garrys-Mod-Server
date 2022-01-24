@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/zmlab/zmlab_methylamin/zmlab_methylamin_diff"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+}

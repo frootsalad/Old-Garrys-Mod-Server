@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_arcade/coin/zap_coin_diff_lod02"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 0.8 0.195]"
+	"$envmapfresnel" "5"
+	
+}

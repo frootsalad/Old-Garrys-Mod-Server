@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/zmlab/zmlab_combiner/zmlab_combiner_gum_diff_lod02"
+
+	
+	"$surfaceprop" "plastic"
+	"$model" 1
+
+}

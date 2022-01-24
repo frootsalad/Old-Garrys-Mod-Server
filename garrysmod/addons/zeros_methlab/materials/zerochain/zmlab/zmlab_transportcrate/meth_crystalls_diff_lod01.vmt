@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture"			"zerochain/zmlab/zmlab_transportcrate/meth_crystalls_diff"
+	
+	"$alphatest" 1
+	"$alphatestreference" 0.01
+	$allowAlphaToCoverage 0
+	
+	"$translucent" 0
+	"$additive" 0
+	
+	//"$bumpmap" "Nature/slime_normal"
+	//"$bumpmap" "glass/reflectiveglass002_normal"
+	
+	"$bumpmap" "zerochain/zmlab/zmlab_transportcrate/meth_crystalls_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "glass"
+	"$model" 1
+
+
+
+}

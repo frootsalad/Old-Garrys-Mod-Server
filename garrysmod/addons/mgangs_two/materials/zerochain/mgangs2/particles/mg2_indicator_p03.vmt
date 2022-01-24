@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zerochain/mgangs2/particles/mg2_indicator_p03"
+	"$additive" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

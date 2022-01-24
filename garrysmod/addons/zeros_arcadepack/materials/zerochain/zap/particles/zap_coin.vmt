@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zerochain/zap/particles/zap_coin"
+	"$additive" "0"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

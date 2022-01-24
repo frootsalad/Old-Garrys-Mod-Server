@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/zmlab/zmlab_methbag/methbag_diff_lod02"
+	
+	"$alphatest" 1
+	"$alphatestreference" .01
+	$allowAlphaToCoverage 1
+
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/zmlab/zmlab_frezzer/zmlab_frezzer_diff_lod02"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+
+}

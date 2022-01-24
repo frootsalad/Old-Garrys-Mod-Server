@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$blendtintcoloroverbase" "0.01"
+	"$blendtintbybasealpha" "1"
+	//"$color2" "[0 1 0]"
+	
+	"$baseTexture"			"zerochain/mgangs2/mgang_flagpost_diff_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+
+}

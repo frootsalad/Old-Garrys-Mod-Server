@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_arcade/coinpusher/zap_coinpusher_main_diff"
+	"$alphatest"			1
+	
+	"$bumpMap"				"zerochain/props_arcade/coinpusher/zap_coinpusher_main_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+	"$envmapfresnel" "2"
+	
+	
+	$phong 1
+		$phongexponent 15
+		//$phongexponenttexture "zerochain/props_arcade/coinpusher/zap_coinpusher_main_phong"
+
+        $phongboost 2
+		$phongtint "[1 1 1]"
+        $halflambert 1
+        $phongfresnelranges "[1 2 3]"
+
+	$rimlight               1
+		$rimlightexponent      1
+		$rimlightboost         5
+
+}

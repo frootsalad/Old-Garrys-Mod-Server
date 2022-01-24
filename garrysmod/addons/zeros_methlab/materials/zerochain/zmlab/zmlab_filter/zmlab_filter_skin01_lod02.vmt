@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/zmlab/zmlab_filter/zmlab_filter_skin01_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+}

@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"SimpLAC"
+	"version"			"1"
+	"up_date"			""
+	"author_name"			"Leystryku"
+	"author_email"			"Leystryku@gmail.com"
+	"author_url"			""
+	"info"				"Anticheat to detect lotsa stuff"
+	"override"			"0"
+}

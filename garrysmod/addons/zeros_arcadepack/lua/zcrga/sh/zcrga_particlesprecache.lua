@@ -1,0 +1,7 @@
+AddCSLuaFile()
+game.AddParticles("particles/zap_coinpusher.pcf")
+PrecacheParticleSystem("zap_coinpusher_coinshit01")
+PrecacheParticleSystem("zap_coinpusher_win_coinexplo_big")
+PrecacheParticleSystem("zap_coinpusher_win_coinexplo_medium")
+PrecacheParticleSystem("zap_coinpusher_win_coinexplo_small")
+PrecacheParticleSystem("zap_coinpusher_coinhit")

@@ -1,0 +1,8 @@
+"MonitorScreen"
+{
+	"$baseTexture"			"zerochain/mgangs2/mgang_automata_signs_diff02_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+
+}

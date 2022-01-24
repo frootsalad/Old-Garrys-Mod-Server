@@ -1,0 +1,10 @@
+"MonitorScreen"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_arcade/coinpusher/zap_coinpusher_main_diff_lod02"
+
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+
+}

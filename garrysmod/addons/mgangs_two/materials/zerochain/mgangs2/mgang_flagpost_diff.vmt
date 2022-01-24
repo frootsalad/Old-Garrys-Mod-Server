@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+	"$blendtintcoloroverbase" "0.01"
+	"$blendtintbybasealpha" "1"
+	//"$color2" "[0 1 0]"
+	
+	"$baseTexture"			"zerochain/mgangs2/mgang_flagpost_diff"
+
+	"$bumpMap"				"zerochain/mgangs2/mgang_flagpost_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapfresnel" "5"
+	
+	$phong 1
+
+        $phongboost 5
+        $phongtint "[1 1 1]"
+        $phongfresnelranges "[1 1 1]"
+		
+		$phongexponenttexture	"zerochain/mgangs2/mgang_flagpost_phong"
+
+			
+		$rimlight               1
+		$rimlightexponent      25
+		$rimlightboost         5
+}

@@ -1,0 +1,9 @@
+"MonitorScreen"
+{
+	"$baseTexture"			"zerochain/props_arcade/coinpusher/zap_coinpusher_figure"
+	"$alphatest"			1
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	//"$selfillum" 1
+}

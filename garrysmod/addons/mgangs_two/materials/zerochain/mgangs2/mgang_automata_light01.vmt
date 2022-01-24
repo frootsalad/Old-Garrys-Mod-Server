@@ -1,0 +1,25 @@
+"MonitorScreen"
+{
+	"$color2" "[1 1 1]"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+	"$baseTexture"			"zerochain/mgangs2/mgang_automata_light01"
+	"$surfaceprop" "Glass"
+	"$model" 1
+
+	$nocull 1
+	"$alphatest"			1
+	$additive 1
+	
+	
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+		"animatedTextureVar" "$basetexture"
+		"animatedTextureFrameNumVar" "$frame"
+		"animatedTextureFrameRate" "3"
+		}
+	}
+}
